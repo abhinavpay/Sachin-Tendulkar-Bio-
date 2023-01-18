@@ -1,0 +1,314 @@
+/* html{
+    scroll-behavior: smooth;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+} */
+
+
+body{
+    background-color: black;
+}
+.nav-bar{
+    margin-left: 938px;
+    margin-top: 54px;
+    display: block;
+    font-size: 22px;
+    
+}
+.links{
+    margin: 15px;
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+    
+
+
+}
+img{
+    height: 690px;
+    margin-left: 63px;
+   position: relative;
+    margin-top: 170px;
+}
+.qoute{
+    color: white;
+    font-family: sans-serif;
+    margin-left: 674px;
+    margin-top: -564px;
+    font-size: 58px;
+}
+
+.qoute-1{
+    color: white;
+    font-family: sans-serif;
+    margin-left: 1231px;
+    margin-top: 35px;
+    font-size: 45px;
+}
+
+.section-2{
+    width: 1680px;
+    height: 427px;
+    margin-top: 419px;
+    background-color: white;
+    position: absolute;
+}
+.about{
+    font-size: 105px;
+    position: absolute;
+    margin-top: 165px;
+    margin-left: 68px;
+    font-family: sans-serif;
+    
+}
+.vertical{
+    height: 274px;
+    width: 7px;
+    margin-left: 524px;
+    margin-top: 82px;
+    background-color: black;
+}
+
+.content{
+    position: absolute;
+    font-size: 27px;
+    font-family: sans-serif;
+    margin-left: 560px;
+    margin-top: -214px;
+}
+
+.early-life{
+    font-size: 72px;
+    color: white;
+    position: absolute;
+    margin-top: 945PX;
+    margin-left: 621px;
+    font-family: sans-serif;
+    text-decoration: underline;
+    transition: 0.5s;
+}
+
+.early-life:hover
+{
+    transform: scale(1.2);
+}
+.section-3{
+    display: flex;
+    position: absolute;
+    margin-left: 56px;
+
+}
+
+
+
+.early-img {
+    position: relative;
+    height: 483px;
+    width: 350px;
+    margin-left: 48px;
+    position: relative;
+    margin-top: 1104px;
+    overflow: hidden;
+    transition: 0.5s;
+}
+
+.early-img:hover{
+
+    z-index: 1;
+    transform: scale(1.2);
+    box-shadow: 0 25px 45px rgba(0, 0,0, 5);
+    
+
+}
+
+.section-4{
+    width: 1680px;
+    height: 427px;
+    margin-top: 79px;
+    background-color: white;
+    position: absolute;
+}
+
+/* .early-content{
+ 
+    
+    
+   
+} */
+.icon{
+    height: 39px;
+    margin-top: 34px;
+}
+.icon-1{
+    height: 39px;
+    margin-top: 34px;
+}
+
+.icon-2{
+    height: 39px;
+    margin-top: 34px;
+}
+
+/* .icon-3{
+
+} */
+
+
+
+.early-p{
+    
+    margin-left: 125px;
+    margin-top: -49px;
+    font-size: 38px;
+    font-family: sans-serif;
+    
+
+}
+
+.first{
+    margin-top: -8px;
+}
+
+.second{
+    margin-top: -36px;
+}
+
+.third{
+    margin-top: -36px;
+}
+.fourth{
+    margin-top: -36px;
+}
+
+.fifth{
+    margin-top: -51px;
+}
+
+.award-h1{
+
+    color: white;
+    margin-top: 623px;
+    margin-left: 568px;
+    font-size: 50px;
+    position: absolute;
+    font-family: sans-serif;
+    text-decoration: underline;
+}
+
+.award-1{
+    width: 625px;
+    height: 395px;
+    margin-top: 746px;
+}
+
+.award-p1{
+    color: white;
+    margin-left: 794px;
+    margin-top: -296px;
+    font-family: sans-serif;
+    font-size: 40px;
+}
+
+.award-2{
+    width: 625px;
+    height: 395px;
+    margin-left: 979px;
+    margin-top: 226px;
+}
+.award-p2{
+    color: white;
+    margin-left: 30px;
+    margin-top: -251px;
+    font-family: sans-serif;
+    font-size: 43px;
+}
+
+.award-3{
+    width: 625px;
+    height: 395px;
+    margin-top: 259px;
+    margin-left: 43px;
+}
+.retirement{
+    color: white;
+    margin-top: 135px;
+    margin-left: 352px;
+    font-size: 50px;
+    position: absolute;
+    font-family: ui-monospace;
+    text-decoration: underline;
+}
+
+video{
+    margin-top: 232px;
+    margin-left: -388px;
+    height: 850px;
+    width: 1739px;
+}
+
+.footer{
+    width: 1680px;
+    height: 427px;
+    margin-top: 1364px;
+    background-color: white;
+    position: absolute;
+}
+
+.footer-img{
+    height: 141px;
+    width: 168px;
+    margin-left: 8px;
+    margin-top: 185px;
+}
+
+iframe{
+    width: 530px;
+    height: 372px;
+    margin-top: -297px;
+    margin-left: 370px;
+}
+
+/* .social-media{
+
+} */
+
+ul{
+
+    margin-left: 1073px;
+    margin-top: -255px;
+}
+
+/* li{
+    
+} */
+
+a{
+    text-decoration: none;
+    font-size: 37px;
+    font-family: sans-serif;
+    color: black;
+}
+
+.social-p{
+    color: black;
+    margin-left: 1077px;
+    margin-top: -118px;
+    position: absolute;
+    font-size: 68px;
+    font-family: sans-serif;
+}
+
+.contact{
+    color: black;
+    margin-left: 1421px;
+    margin-top: -247px;
+    font-size: 36px;
+    margin: 18x;
+    font-family: sans-serif;
+}
+
+
+
